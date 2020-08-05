@@ -1,0 +1,22 @@
+[
+  {
+    "custom": true,
+    "highlights": {
+      "attribute": "#d19a66",
+      "background": "rgba(255,255,255,1)",
+      "comment": "#888888",
+      "definition": "#DCDCAA",
+      "keyword": "#0A0A88",
+      "meta": "#D4D4D4",
+      "number": "#B5CEA8",
+      "operator": "#C9545A",
+      "property": "#DCDCAA",
+      "string": "#29AD13",
+      "tag": "#569cd6",
+      "text": "rgba(0,0,0,1)",
+      "variable": "#000000"
+    },
+    "id": "theme:fgy2ytpy5za",
+    "name": "Custom Light"
+  }
+]

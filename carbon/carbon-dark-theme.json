@@ -1,0 +1,22 @@
+[
+  {
+    "custom": true,
+    "highlights": {
+      "attribute": "#d19a66",
+      "background": "#1E1E1E",
+      "comment": "#6A9955",
+      "definition": "#DCDCAA",
+      "keyword": "#C586C0",
+      "meta": "#D4D4D4",
+      "number": "#B5CEA8",
+      "operator": "#D4D4D4",
+      "property": "#DCDCAA",
+      "string": "#CE9178",
+      "tag": "#569cd6",
+      "text": "#D4D4D4",
+      "variable": "#9CDCFE"
+    },
+    "id": "theme:ix4tpvc8c39",
+    "name": "Custom Dark"
+  }
+]
