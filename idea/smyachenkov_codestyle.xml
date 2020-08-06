@@ -1,0 +1,25 @@
+<code_scheme name="smyachenkov codestyle" version="173">
+  <JavaCodeStyleSettings>
+    <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="true" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+  </JetCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
